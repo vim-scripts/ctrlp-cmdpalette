@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4737
+
+This is an extension for the awesome vim CtrlP plugin.
+
+This extension adds a new CtrlP command, the :CtrlPCmdPalette, which allows you to find and run vim commands (internal or custom).
+
+Oficial repo:
+https://github.com/fisadev/vim-ctrlp-cmdpalette
